@@ -3,3 +3,4 @@ The implementation of deep neural networks on a small-scale car platform. The ca
 
 Code is not pushed to the repo according to the privacy issues
 
+![Hnet-image-min](https://user-images.githubusercontent.com/44826434/86950597-4cb88f00-c18b-11ea-85a3-1f7fb5bb8854.gif)
